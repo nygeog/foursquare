@@ -24,7 +24,7 @@ To summarize:
 > Pull venueID from CSV (checkins_mini.csv)
 > turn venuID to string
 > Insert string into URL and getJSON 
- https://api.foursquare.com/v2/venues/'+ venueURL + '?oauth_token=DKMQRQ5G33P5B1XQIHBJRPPVS2QXJ1NX4US0CWOEFEOJDLIK&v=20131013
+ https://api.foursquare.com/v2/venues/'+ venueURL + '?oauth_token=______&v=20131013
 > Get JSON of VenueIDs for all venues
 > Open in Refine and Eliminate unnecessary columns
 > Convert to GeoJSON or csv and geocode
